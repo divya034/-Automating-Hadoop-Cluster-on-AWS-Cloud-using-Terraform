@@ -6,6 +6,7 @@ First off, thanks for taking the time to contribute! We love your input💜. We 
 - Submitting a fix
 - Proposing new features
 - Becoming a maintainer
+  
 
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
