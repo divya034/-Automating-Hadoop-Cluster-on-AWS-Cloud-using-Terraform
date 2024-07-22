@@ -166,6 +166,7 @@ resource "aws_volume_attachment" "ebs_att3" {
   force_detach = true
 }
 
+
 resource "null_resource" "nullremote7"  {
 
 depends_on = [
