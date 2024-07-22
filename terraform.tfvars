@@ -6,3 +6,5 @@ ami_id = "ami-08df646e18b182346"
 machine_type = "t2.micro"
 instance_region = "ap-south-1"
 subnetID = "ENTER SUBNET ID HERE"
+
+
