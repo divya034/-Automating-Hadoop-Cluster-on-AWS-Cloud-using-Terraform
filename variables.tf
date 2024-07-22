@@ -13,3 +13,4 @@ variable "subnetID" {}
 variable "keyName" {}
 
 variable "keyLocation" {}
+
