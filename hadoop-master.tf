@@ -1,3 +1,4 @@
+
 resource "aws_security_group" "minorprojectsecurity" {
   name        = "minorprojectsecurity"
   description = "Allow TLS inbound traffic"
